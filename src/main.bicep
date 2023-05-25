@@ -25,3 +25,4 @@ resource assignment_baseline 'Microsoft.Authorization/policyAssignments@2022-06-
     }
   }
 }
+ 
