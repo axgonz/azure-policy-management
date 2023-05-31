@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "**/.devops/pipelines/*.yml": "azure-pipelines",
+        "**/.github/workflows/*.yml": "yaml"
+    },
+    "trailing-spaces.trimOnSave": true,
+    "trailing-spaces.highlightCurrentLine": true
+}

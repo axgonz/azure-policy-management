@@ -1,5 +1,7 @@
 {
 	"recommendations": [
-		"ms-azuretools.vscode-bicep"
+		"ms-azuretools.vscode-bicep",
+		"eamodio.gitlens",
+		"shardulm94.trailing-spaces"
 	]
 }
